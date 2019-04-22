@@ -58,7 +58,7 @@ We will make a very simple one with the following syntax:
 
 </br>
 
-For the query language we decided to rely on REGEX <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OOjs_UI_icon_regular-expression-progressive.svg/1024px-OOjs_UI_icon_regular-expression-progressive.svg.png" height="20" align="center"> for patterns that would build up to an SQL string. The team didn’t introduce any connection methods on this program's functionality but the resulting scripts are presented on the screen (after executing `python queryLanguage.py`) and can be as easily copied and executed over MySQLWorkbench <img src="https://www.macupdate.com/images/icons256/31829.png" height="20"> for example. 
+For the query language we decided to rely on REGEX <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OOjs_UI_icon_regular-expression-progressive.svg/1024px-OOjs_UI_icon_regular-expression-progressive.svg.png" height="20" align="center"> for patterns that would build up to an SQL string. The team didn’t introduce any connection methods on this program's functionality but the resulting scripts are presented on the screen (after executing `python`[`queryLanguage.py`](./queryLanguage.py)) and can be as easily copied and executed over MySQLWorkbench <img src="https://www.macupdate.com/images/icons256/31829.png" height="20"> for example. 
 
 </br> Here are some of the examples:
 
