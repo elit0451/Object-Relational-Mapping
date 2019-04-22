@@ -54,7 +54,7 @@ We will make a very simple one with the following syntax:
 * `(Customer|name='Joe')` returns a collection of all Customers named Joe.
 * `(Customer|name='Joe').Order` returns a collection of all Joe's Orders.
 * `(Customer|name='Joe').Order.OrderLine.Product` returns a collection of all Products in all of Joe's Orders.
-* `(Orders|total > 200).Customer.name` returns a list of all Customers with an Order above 200.
+* `(Orders|total > 200).Customer.name` returns a list of all Customers names with an Order above 200.
 
 </br>
 
